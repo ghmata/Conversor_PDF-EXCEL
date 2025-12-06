@@ -100,6 +100,3 @@ Threading & UX
 Para evitar o congelamento da GUI durante o loop de 1000 arquivos, a função executar_lote roda em uma background thread. A comunicação com a GUI (barra de progresso e logs) é feita através de callbacks seguros (after method) para respeitar a Main Loop do Tkinter.
 
 👨‍💻 Gabriel Hipólito da Mata
-
-Desenvolvido por [Seu Nome]
-Engenheiro de Software & Especialista em Automação
