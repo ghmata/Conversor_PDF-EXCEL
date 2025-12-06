@@ -1,15 +1,3 @@
-Aqui está a documentação completa para o seu projeto. Ela foi escrita com uma linguagem técnica e comercial, ideal para impressionar recrutadores ou clientes no seu portfólio.
-
-1. Descrição Curta (Pitch)
-
-Ideal para colocar na seção "About" do GitHub, no resumo do LinkedIn ou no cabeçalho do seu CV.
-
-PDF Extract Pro: Uma solução de automação desktop (RPA) de alta performance desenvolvida em Python. Projetada para converter lotes massivos de PDFs em planilhas Excel, a aplicação conta com tratamento robusto de erros, segregação automática de arquivos escaneados e uma interface gráfica moderna (Dark Mode) responsiva e thread-safe.
-
-2. README.md para GitHub
-
-Copie o conteúdo abaixo e salve como README.md na raiz do seu projeto.
-
 code
 Markdown
 download
@@ -120,8 +108,3 @@ Para evitar o congelamento da GUI durante o loop de 1000 arquivos, a função ex
 
 Desenvolvido por [Seu Nome]
 Engenheiro de Software & Especialista em Automação
-
-
-    *   Seleção da pasta.
-    *   O processamento acontecendo (o log correndo estilo "Matrix").
-    *   A abertura da pasta final mostrando os arquivos organizados.
