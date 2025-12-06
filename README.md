@@ -1,8 +1,3 @@
-code
-Markdown
-download
-content_copy
-expand_less
 # 🚀 PDF Extract Pro - Automação RPA Desktop
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
